@@ -1,0 +1,73 @@
+A:\Iskola\Tibimon\Tibimon\Tibimon\bin\Debug\Tibimon.exe.config
+A:\Iskola\Tibimon\Tibimon\Tibimon\bin\Debug\Tibimon.exe
+A:\Iskola\Tibimon\Tibimon\Tibimon\bin\Debug\Tibimon.pdb
+A:\Iskola\Tibimon\Tibimon\Tibimon\obj\Debug\Tibimon.csprojAssemblyReference.cache
+A:\Iskola\Tibimon\Tibimon\Tibimon\obj\Debug\Tibimon.Form1.resources
+A:\Iskola\Tibimon\Tibimon\Tibimon\obj\Debug\Tibimon.Properties.Resources.resources
+A:\Iskola\Tibimon\Tibimon\Tibimon\obj\Debug\Tibimon.csproj.GenerateResource.cache
+A:\Iskola\Tibimon\Tibimon\Tibimon\obj\Debug\Tibimon.exe
+A:\Iskola\Tibimon\Tibimon\Tibimon\obj\Debug\Tibimon.pdb
+A:\Iskola\Tibimon\Tibimon\Tibimon\obj\Debug\Tibimon.nehezseg.resources
+A:\Iskola\Tibimon\Tibimon\Tibimon\obj\Debug\Tibimon.tibimonValasztas.resources
+E:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.Form1.resources
+E:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.nehezseg.resources
+E:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.Properties.Resources.resources
+E:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.tibimonValasztas.resources
+E:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csproj.GenerateResource.cache
+E:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.exe
+E:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.pdb
+E:\TibimonÚjratöltve\Tibimon\Tibimon\bin\Debug\Tibimon.exe.config
+E:\TibimonÚjratöltve\Tibimon\Tibimon\bin\Debug\Tibimon.exe
+E:\TibimonÚjratöltve\Tibimon\Tibimon\bin\Debug\Tibimon.pdb
+E:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csata.resources
+D:\TibimonÚjratöltve\Tibimon\Tibimon\bin\Debug\Tibimon.exe.config
+D:\TibimonÚjratöltve\Tibimon\Tibimon\bin\Debug\Tibimon.exe
+D:\TibimonÚjratöltve\Tibimon\Tibimon\bin\Debug\Tibimon.pdb
+D:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csprojAssemblyReference.cache
+D:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csata.resources
+D:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.Form1.resources
+D:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.nehezseg.resources
+D:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.Properties.Resources.resources
+D:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.tibimonValasztas.resources
+D:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csproj.GenerateResource.cache
+D:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csproj.CoreCompileInputs.cache
+D:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.exe
+D:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.pdb
+F:\TibimonÚjratöltve\Tibimon\Tibimon\bin\Debug\Tibimon.exe.config
+F:\TibimonÚjratöltve\Tibimon\Tibimon\bin\Debug\Tibimon.exe
+F:\TibimonÚjratöltve\Tibimon\Tibimon\bin\Debug\Tibimon.pdb
+F:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csprojAssemblyReference.cache
+F:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csata.resources
+F:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.Form1.resources
+F:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.nehezseg.resources
+F:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.Properties.Resources.resources
+F:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.tibimonValasztas.resources
+F:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csproj.GenerateResource.cache
+F:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.exe
+F:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.pdb
+C:\Users\wenin\OneDrive\Asztali gép\TibimonÚjratöltve\Tibimon\Tibimon\bin\Debug\Tibimon.exe.config
+C:\Users\wenin\OneDrive\Asztali gép\TibimonÚjratöltve\Tibimon\Tibimon\bin\Debug\Tibimon.exe
+C:\Users\wenin\OneDrive\Asztali gép\TibimonÚjratöltve\Tibimon\Tibimon\bin\Debug\Tibimon.pdb
+C:\Users\wenin\OneDrive\Asztali gép\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csprojAssemblyReference.cache
+C:\Users\wenin\OneDrive\Asztali gép\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csata.resources
+C:\Users\wenin\OneDrive\Asztali gép\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.Form1.resources
+C:\Users\wenin\OneDrive\Asztali gép\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.nehezseg.resources
+C:\Users\wenin\OneDrive\Asztali gép\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.Properties.Resources.resources
+C:\Users\wenin\OneDrive\Asztali gép\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.tibimonValasztas.resources
+C:\Users\wenin\OneDrive\Asztali gép\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csproj.GenerateResource.cache
+C:\Users\wenin\OneDrive\Asztali gép\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.exe
+C:\Users\wenin\OneDrive\Asztali gép\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.pdb
+C:\TibimonÚjratöltve\Tibimon\Tibimon\bin\Debug\Tibimon.exe.config
+C:\TibimonÚjratöltve\Tibimon\Tibimon\bin\Debug\Tibimon.exe
+C:\TibimonÚjratöltve\Tibimon\Tibimon\bin\Debug\Tibimon.pdb
+C:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csprojAssemblyReference.cache
+C:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csata.resources
+C:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.Form1.resources
+C:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.nehezseg.resources
+C:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.Properties.Resources.resources
+C:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.tibimonValasztas.resources
+C:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csproj.GenerateResource.cache
+C:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csproj.CoreCompileInputs.cache
+C:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.exe
+C:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.pdb
+E:\TibimonÚjratöltve\Tibimon\Tibimon\obj\Debug\Tibimon.csprojAssemblyReference.cache
